@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #function to convert text input to table
 create_table<-function(num=1)
 {
@@ -80,7 +79,6 @@ summarize<-function()
 summarize()
 
 
-=======
 #function to convert text input to table
 create_table<-function(num=1)
 {
